@@ -1,4 +1,21 @@
 python-nbody-utils
 ==================
 
-Utilities for N-body algorithms
+A set of different utilities for N-body algorithms.
+
+
+Features
+---------
+
+ * Kinetic and Potential energy calculation.
+ * Half-mass radius.
+ * Core radius.
+ * Relaxation time.
+ * Crossing time.
+ * Core collapse time.
+
+Future work
+------------
+
+ * Conversion between N-body units and Physical units.
+ * ...
