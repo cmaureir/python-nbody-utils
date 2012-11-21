@@ -19,3 +19,16 @@ Future work
 
  * Conversion between N-body units and Physical units.
  * ...
+
+
+Usage
+------
+
+
+INPUT file format
+~~~~~~~~~~~~~~~~~~
+
+Format:
+::
+
+    <mass> <rx> <ry> <rz> <vx> <vy> <vz>
